@@ -465,7 +465,7 @@ $imgGet = new imgGet($baseConf, $index);
 
 //$imgGet->start();
 //$urls = $imgGet->creatUrls(1261, 50);
-$imgGet->run(10, 50);
+$imgGet->run(1261, 50);
 //$imgGet->go();
 
 
