@@ -17,7 +17,7 @@ git clone https://github.com/lovey-wyg/spider.git
 打开conf.php 修改图片保存路径，然后保存
 
 二 运行
-命令行执行 php imgGet
+命令行执行 php imgGet.php
 
 等待执行结果
 
